@@ -47,8 +47,7 @@ Sharing my work with the community is something I value deeply, as I aim to insp
  />
   <img align="left" alt="Angular.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
  />
-   <img align="left" alt="Kalli Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Kali-Linux-logo.svg" 
- />
+
 <br />
 
 ---
